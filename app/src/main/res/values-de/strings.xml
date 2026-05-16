@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mein erstes Projekt</string>
+    <string name="welcome_text">Willkommen</string>
+    <string name="description_text">Dies ist eine mehrsprachige Anwendung mit Unterstützung für mehrere Bildschirme.</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mon Premier Projet</string>
+    <string name="welcome_text">Bienvenue</string>
+    <string name="description_text">C\'est une application multilingue avec prise en charge de plusieurs écrans.</string>
+</resources>

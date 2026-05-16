@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Primer Proyecto</string>
+    <string name="welcome_text">¡Hola Android!</string>
+    <string name="description_text">Esta es una aplicación multi-idioma con soporte para múltiples pantallas.</string>
+</resources>
